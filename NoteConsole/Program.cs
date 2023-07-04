@@ -9,7 +9,6 @@ namespace NoteConsole
 {
     class Program
     {
-
         public static void Them_ghi_chu(string name)
         {
             int type;
@@ -185,7 +184,7 @@ namespace NoteConsole
                         Console.WriteLine("Ten nguoi dung khong ton tai! Moi ban tao ghi chu moi");
                         Console.WriteLine("/////////////////////////////////////////////////////////");
                         Console.WriteLine("\n");
-                    }
+                    } 
 
                     break;
 
